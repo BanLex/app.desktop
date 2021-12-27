@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=PyCharm Community
+Exec=/opt/pycharm-community/bin/pycharm.sh
+Type=Application
+Icon=/opt/pycharm-community/bin/pycharm.png
+Terminal=false
+Categories=Development;
+StartupWMClass=PyCharm
+Encoding=UTF-8
